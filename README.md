@@ -1,3 +1,3 @@
 # JSP-Maps-en-Java
-![Vista previa](image1.png)
-![Vista previa](image2.png)
+![Vista previa](imágenes/image1.png)
+![Vista previa](imágenes/image2.png)
